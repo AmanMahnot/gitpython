@@ -1,0 +1,5 @@
+there are following steps to run project:
+
+1. run dataset.py file and create a dataset
+2. run trainer.py file to train data
+3. run detector.py file to detect and recognition face

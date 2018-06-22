@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 18 10:20:57 2018
+
+@author: user
+"""
+[
+        {"First_Name":"abc",
+        "Last_Name":"def",
+        "Photo":"img = Image.open(\"Sample.jpg\")",
+        "Department":"cse",
+        "Research_Areas":["bla","bl","b"],
+        "Contact_Details":["9928049888", "abcdef@gmail.com"]
+        },
+        {"First_Name":"xyz",
+        "Last_Name":"pqr",
+        "Photo":"img = Image.open(\"shxnhasn.jpg\")",
+        "Department":"ece",
+        "Research_Areas":["a","c","b"],
+        "Contact_Details":["65757657656", "xyzpqr@gmail.com"]
+        },
+        {"First_Name":"mno",
+        "Last_Name":"tuv",
+        "Photo":"img = Image.open(\"hbshbhsb.jpg\")",
+        "Department":"it",
+        "Research_Areas":["c","v","r"],
+        "Contact_Details":["7544344454", "mnotuv@gmail.com"]
+        }
+]
